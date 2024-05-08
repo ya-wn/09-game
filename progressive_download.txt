@@ -3,7 +3,7 @@
 # See https://www.renpy.org/doc/html/build.html#classifying-and-ignoring-files for matching
 #
 # +/- type path
-+ image game/gui/**
+- image game/gui/**
 + image game/**
-- music game/audio/**
-- voice game/voice/**
++ music game/audio/**
++ voice game/voice/**
